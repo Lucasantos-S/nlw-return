@@ -12,6 +12,10 @@
 
 ![image](https://user-images.githubusercontent.com/84051326/175439382-9b5880b2-f0e5-49fa-8f5c-80d4d7703d14.gif)
 
+<p align="center" margin-top="25px" >
+<a href="https://nlw-return-lemon-alpha.vercel.app/">Confira o projeto clicando aqui</a>
+</p>
+
 ## 🏃‍♂️Jornada
 
 Next Level Week Heat é a 8º edição desse evento oferecido pela [Rocketseat](https://rocketseat.com.br) para a comunidade.
