@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/84051326/175439382-9b5880b2-f0e5-49fa-8f5c-80d4d7703d14.gif)
 
 <p align="center" margin-top="25px" >
-<a href="https://nlw-return-lemon-alpha.vercel.app/">Confira o projeto clicando aqui</a>
+<a href="https://nlw-return-lemon-alpha.vercel.app/" target="_blank">Confira o projeto clicando aqui</a>
 </p>
 
 ## 🏃‍♂️Jornada
@@ -85,6 +85,6 @@ $ npm run start
 
 você vai me encontrar em qualquer uma das redes sociais abaixo:
 
-<a href = "lucas: lucassantos.dsilv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" margin-right="10px"></a>
+<a href="lucas: lucassantos.dsilv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" margin-right="10px"></a>
 <a href="https://www.linkedin.com/in/lucasasntos-s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
